@@ -1,0 +1,1 @@
+insert into song values ('slow jams', 'fast jams');
